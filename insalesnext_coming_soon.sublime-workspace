@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3330,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "re",
+		"selected_items":
+		[
+			[
+				"re",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"jek",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"githu",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"github",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sarhov/Dropbox/My_projects/insalesnext.com/website_coming_soon"
+	],
+	"file_history":
+	[
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/config/settings_schema.json",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/config/settings_data.json",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/assets/custom.css.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/snippets/top-navigation.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/snippets/product-grid-item.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/snippets/include-carousel-files.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/snippets/collection-slider.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/templates/collection.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/snippets/header.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/config.yml",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/templates/product.liquid",
+		"/C/Users/sarhov/Desktop/slick-theme.css",
+		"/C/Users/sarhov/Dropbox/Projects/alex_frances-may-2/snippets/include-carousel-files-product.liquid",
+		"/C/Users/sarhov/Desktop/slick.min.js",
+		"/C/Users/sarhov/Desktop/slick.css",
+		"/C/Users/sarhov/Desktop/New folder/css/style.scss"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"14",
+			"productDetailThumbs",
+			"p>",
+			"p",
+			"prod-image-wrap",
+			"navMin",
+			"cart-count"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "insalesnext_coming_soon.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"produ",
+				"templates\\product.liquid"
+			],
+			[
+				"include",
+				"snippets\\include-carousel-files-product.liquid"
+			],
+			[
+				"coll",
+				"snippets\\collection-slider.liquid"
+			],
+			[
+				"custom",
+				"assets\\custom.css.liquid"
+			],
+			[
+				"sett",
+				"config\\settings_schema.json"
+			],
+			[
+				"heade",
+				"snippets\\header.liquid"
+			],
+			[
+				"sty",
+				"assets\\styles.css.liquid"
+			],
+			[
+				"lay",
+				"layout\\theme.liquid"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "mini",
+		"selected_items":
+		[
+			[
+				"mini",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\shopifynext.com\\themes\\minimalist\\minimalist.sublime-project"
+			],
+			[
+				"libe",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\liberty\\liberty.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\alex_frances-may-2\\alex_frances_may.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
